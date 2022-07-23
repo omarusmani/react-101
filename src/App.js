@@ -6,7 +6,6 @@ function App() {
   function handleSubmit() {
     console.log("I am submitted!");
   }
-
   function handleClear() {
     console.log("I am cleared!");
   }
