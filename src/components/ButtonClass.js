@@ -1,9 +1,9 @@
 import React from "react";
 
 export class ButtonClass extends React.Component{
-    constructor(props){
-        super(props)
-    }
+    // constructor(props){
+    //     super(props)
+    // }
     render(){
         const{
             label="Default",
